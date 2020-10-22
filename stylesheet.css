@@ -1,0 +1,44 @@
+/* Color scheme:
+#1A2E6B
+#819CEE
+#3865EB
+#3A466B
+#2D50B8 */
+
+body {
+ font-family: 'Cardo', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Oswald', sans-serif;
+ text-transform: uppercase;
+}
+
+nav {
+  background-color: #1A2E6B;
+  color: inherit;
+  height: 100px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+nav a {
+  background-color: inherit;
+  color: #819CEE;
+  float: right;
+  padding: 2% 4% 2% 4% ;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #1A2E6B;
+  color: #819CEE;
+  text-align: center;
+  height: 50px;
+}
+
+footer h3 {
+  padding: 15px 0;
+
+
+  }
