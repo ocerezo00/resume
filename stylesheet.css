@@ -40,6 +40,15 @@ nav a {
   padding: 2% 4% 2% 4% ;
   text-decoration: none;
 }
+
+.skillLeft {
+  padding: 10px 40px;
+}
+
+.skillRight {
+  text-align: right;
+  padding: 10px 40px;
+}
 /*
 footer {
   background-color: #1A2E6B;
@@ -59,7 +68,7 @@ footer {
 
 footer img {
   height: 2.5rem;
-  filter: opacity(50%);
+  filter: opacity(50%) grayscale(40%);
 }
 
 .flex-container {
