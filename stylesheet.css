@@ -83,6 +83,25 @@ footer p {
   font-size: .5em;
 }
 
+/**
+experience.html
+*/
+  .row {
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .experienceLeft {
+    padding: 10px 40px;
+  }
+
+  .flex-container-experience {
+    padding: 10px 40px;
+    text-align: right;
+    flex: auto;
+    flex-direction: column;
+  }
+
 /* footer table {
   height: 2.5rem;
 }
