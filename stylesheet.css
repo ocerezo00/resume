@@ -114,6 +114,15 @@ nav img {
   text-align: right;
 }
 
+main img {
+  padding: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 400px;
+}
+
 .row {
   display: flex;
   flex-wrap: nowrap;
