@@ -83,6 +83,12 @@ footer p {
   font-size: .5em;
 }
 
+nav img {
+  padding: 10px 40px;
+  height: 80px;
+  width: 80px;
+}
+
 /**
 experience.html
 */
